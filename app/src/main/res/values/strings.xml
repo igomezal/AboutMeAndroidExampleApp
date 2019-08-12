@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Iván Gómez Alonso</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel bibendum sem, id pellentesque dolor. Cras sollicitudin finibus porta. Ut tempor lacus ut nulla porttitor, a pellentesque sem sollicitudin. In vel ligula pretium, fringilla est eget, tempus ante. Vestibulum vel magna in nisi placerat congue. Praesent sed pharetra nulla. Phasellus sagittis vulputate purus, ac finibus ante ultrices eget. Mauris vitae malesuada ex, ut placerat dolor. Fusce in lobortis ante, at fringilla nibh. Duis ex leo, venenatis et purus quis, pretium efficitur elit.\n\n\n
+
+        Nulla tristique ligula ac diam viverra, id volutpat metus facilisis. In tempor ac leo id sodales. Aenean sodales risus vel velit fringilla pretium. Maecenas maximus elit in sem ultricies molestie. Suspendisse potenti. Nulla ipsum tellus, aliquam non rutrum et, semper non enim. Etiam vestibulum suscipit justo id sodales. Sed fringilla porta enim. Aliquam id lorem eget ex efficitur placerat quis auctor purus. Proin et congue ligula. Vestibulum vitae consequat orci, in scelerisque mauris. \n\n Proin lobortis id turpis id cursus. Donec imperdiet mi id interdum finibus. Maecenas posuere dui sapien, ac auctor sapien gravida id. Quisque vitae ex luctus, gravida tellus id, varius erat.\n\n\n
+
+        Donec diam leo, scelerisque sed justo et, ultricies luctus lorem. Ut varius fermentum metus, a laoreet eros molestie semper. Mauris tincidunt interdum arcu, id pretium nunc laoreet vel. Sed ante massa, vulputate ut lacus nec, placerat ultrices enim. Mauris ut eros luctus, aliquet magna quis, placerat dolor. Curabitur dignissim finibus orci quis placerat. Etiam sed purus magna. Sed a eros ac ante sagittis viverra. Fusce fringilla porttitor lorem non lacinia. In ut feugiat magna, at tristique orci. \n Praesent augue arcu, porttitor sed nisi tempus, efficitur elementum dolor. Morbi ultrices rutrum mi, vitae scelerisque nisi mollis vitae. Vivamus non commodo libero, id volutpat urna. Sed at ante et lorem mattis congue. Phasellus non tortor bibendum, vulputate ante nec, pellentesque neque. Sed fermentum diam mi. </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">DONE</string>
+</resources>
